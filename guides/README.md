@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# Наше с тобой начало
+# Введение
 
 ## Ввод
 
@@ -31,7 +31,7 @@ FarySD читается как Фэри Эс Ди
 
 ### Как поиграть?
 
-Перед тем, как начать играть, ты должен подать заявку, а иначе не сможешь зайти :frowning2:.
+Перед тем, как начать играть, ты должен подать заявку, а иначе не сможешь зайти :frowning2:
 
 Подать заявку можно двумя способами:
 
@@ -39,16 +39,15 @@ FarySD читается как Фэри Эс Ди
 2. Создать тикет (Старый способ)
 
 {% hint style="info" %}
-Подробнее ты можешь почитать по ссылке ниже&#x20;
+Подробнее ты можешь почитать по ссылке ниже
 {% endhint %}
 
 {% content-ref url="players/sozdanie-tiketa.md" %}
 [sozdanie-tiketa.md](players/sozdanie-tiketa.md)
 {% endcontent-ref %}
 
-\
 История сервера (разрабатывается только с учётом сообщества):
 
-{% content-ref url="http://127.0.0.1:5000/o/iFQbt5qoPEmdkhej1VWb/s/jSIcNufNUqkHSgPffV4C/" %}
+{% content-ref url="<http://127.0.0.1:5000/o/iFQbt5qoPEmdkhej1VWb/s/jSIcNufNUqkHSgPffV4C/>" %}
 [История](http://127.0.0.1:5000/o/iFQbt5qoPEmdkhej1VWb/s/jSIcNufNUqkHSgPffV4C/)
 {% endcontent-ref %}

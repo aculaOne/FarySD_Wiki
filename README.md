@@ -1,2 +1,5 @@
-# FarySD_Wiki
-Wiki for FarySD (Minecraft Server)
+# FarySD Wiki
+
+Вики для майнкрафт сервера FarySD.
+
+Любой желающий, кто разбирается в механиках FarySD, может внести свой вклад!
