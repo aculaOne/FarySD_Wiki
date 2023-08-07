@@ -5,39 +5,41 @@
 Здесь ты научишься правильно создавать тикет) А что ты тут ожидал?
 
 {% hint style="info" %}
-Перед началом перейди [в наш дискорд](https://discord.gg/invite/ZxwXC6ETpu)
+Перед началом перейди [в наш дискорд](https://discord.gg/invite/ngxE7dUzbE)
 {% endhint %}
 
 ## Вводные слова
 
-На сервере есть два способа подачи заявки:
+На сервере есть два способа подачи заявок:
 
-1. Создать статью в форуме с именем `#заявки`
-2. Создать тикет (Старый способ)
+1. Создать статью в форуме `#заявки`
+2. Создать тикет ( Старый способ )
 
 ## Первый способ
 
 ### Правила
 
-Как и на любом другом проекте у нас есть определённые правила. Для подачи заявок тем более. Прочитать ты их сможешь, если раскроешь их. Там всё написано.\
+Как и на любом другом проекте у нас есть определённые правила. Для подачи заявок также имеются свои нюансы. Ты сможешь прочитать о них, если раскроешь описание / правила форума, там всё будет написано.
 
-
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/sozdanie-tiketa/forum_1.png" alt=""><figcaption></figcaption></figure>
 
 ### Итог
 
 В итоге ты должен написать о себе в виде небольшого рассказа, или как ответом на форму. Пример второго ниже:
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/sozdanie-tiketa/forum_2.png" alt=""><figcaption></figcaption></figure>
 
 ## Второй способ
 
+{% hint style="danger" %}
+Всё написанное ниже не будет как-либо редактироваться и дополняться. Информация может быть неактуальной!
+{% endhint %}
+
 ### Самое главное
 
-Перед тем как подавать тикет, ты должен прочитать  правила!\
-&#x20;
+Перед тем как подавать тикет, ты должен прочитать  правила!
 
-<figure><img src="../.gitbook/assets/2023-06-13_04-33-39 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/sozdanie-tiketa/rules_path.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 В правилах есть ещё ссылки на правила для майнкрафт сервера, прочитай их!
@@ -55,7 +57,7 @@
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/2023-06-13_04-35-57.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/sozdanie-tiketa/ticket_1.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -72,7 +74,7 @@
 Поле со **`*`** - **обязательно**
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/2023-06-13_04-39-30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/sozdanie-tiketa/ticket_2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 Некорректная заявка может получить статус <mark style="color:red;">Отказано</mark>!
@@ -82,17 +84,17 @@
 
 После нескольких лет тренировки ты сможешь создать идеальный тикет, а пока жди оперативной работы админов)
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/sozdanie-tiketa/ticket_3.png" alt=""><figcaption></figcaption></figure>
 
 Упс...
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/sozdanie-tiketa/ticket_4.png" alt=""><figcaption></figcaption></figure>
 
 Но ты сделал всё правильно, поэтому жди!
 
 В качестве бонуса (видео со скриншота):
 
-{% file src="../.gitbook/assets/de7aeff2561862d3.mp4" %}
+{% file src="../.gitbook/assets/sozdanie-tiketa/troll.mp4" %}
 
 {% hint style="success" %}
 Поздравляю! Ты смог осилить первую ступень знакомства.

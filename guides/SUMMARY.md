@@ -1,6 +1,6 @@
-# Table of contents
+# Таблица с контентом
 
-* [Наше с тобой начало](README.md)
+* [Введение](README.md)
 
 ## Игроки <a href="#players" id="players"></a>
 
