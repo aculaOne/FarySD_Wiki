@@ -48,6 +48,6 @@ FarySD читается как Фэри Эс Ди
 
 История сервера (разрабатывается только с учётом сообщества):
 
-{% content-ref url="<http://127.0.0.1:5000/o/iFQbt5qoPEmdkhej1VWb/s/jSIcNufNUqkHSgPffV4C/>" %}
-[История](http://127.0.0.1:5000/o/iFQbt5qoPEmdkhej1VWb/s/jSIcNufNUqkHSgPffV4C/)
+{% content-ref url="<../history/README.md>" %}
+[История](../history/README.md)
 {% endcontent-ref %}
