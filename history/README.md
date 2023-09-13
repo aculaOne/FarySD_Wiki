@@ -2,12 +2,14 @@
 
 {% tabs %}
 {% tab title="Информация" %}
+
 ## Краткая инфа
 
 Ну, короче, ну это, да, ты попал на вики с историей, точно!
 {% endtab %}
 
 {% tab title="Авторы" %}
+
 ## РЕДАКТОРЫ
 
 * acula\_1#7451
@@ -22,6 +24,7 @@
 {% endtab %}
 
 {% tab title="В планах" %}
+
 ## ПЕРВЫЙ СЕЗОН (Legacy Season)
 
 * [ ] Идея создания
@@ -60,8 +63,27 @@
 {% endtab %}
 
 {% tab title="Обратная связь" %}
+
 ## ОБРАЩАЙТЕСЬ УВАЖИТЕЛЬНО
 
-<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th align="center"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center">Валентин Бурдуковский</td><td align="center">VK/TG/DS</td><td align="center">@acula_1</td><td><a href=".gitbook/assets/aculaCleyka.png">aculaCleyka.png</a></td></tr></tbody></table>
+<table data-view="cards">
+    <thead>
+        <tr>
+            <th align="center"></th>
+            <th align="center"></th>
+            <th align="center"></th>
+            <th data-hidden data-card-cover data-type="files"></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">Валентин Бурдуковский</td>
+            <td align="center">VK/TG/DS</td><td align="center">@acula_1</td>
+            <td>
+                <a href=".gitbook/assets/aculaCleyka.png">aculaCleyka.png</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 {% endtab %}
 {% endtabs %}
