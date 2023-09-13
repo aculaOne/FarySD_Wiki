@@ -1,4 +1,4 @@
-# Таблица с контентом
+# Table of contents
 
 * [Введение](README.md)
 
@@ -6,6 +6,5 @@
 
 * [👋 Знакомство](players/znakomstvo.md)
 * [📙 Создание тикета](players/sozdanie-tiketa.md)
-* Путеводитель - Discord
+* [Путеводитель - Discord](players/putevoditel-discord/README.md)
   * [👥 Команда проекта](players/guideline/discord/team.md)
-  
