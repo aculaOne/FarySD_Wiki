@@ -1,5 +1,11 @@
 # FarySD Wiki
 
-Вики для майнкрафт сервера FarySD.
+<p align="center">
+    <img src="./logo.png" width="40%" />
+    <img src="./logo-l.png" width="40%" />
+</p>
 
-Любой желающий, кто разбирается в механиках FarySD, может внести свой вклад!
+Вики для Minecarft-сервера FarySD.
+
+- Гайды по серверу (релиз): [клик](https://farysd.gitbook.io/guides/)
+- История сервера (релиз): [клик](https://farysd.gitbook.io/history/)
