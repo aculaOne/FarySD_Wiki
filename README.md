@@ -1,11 +1,9 @@
 # FarySD Wiki
 
-<center>
-    <img src="./logo.png" width="20%" />
-    <img src="./logo-l.png" width="20%" />
-</center>
+<p align="center"><img src="./logo.png" width="20%" /> <img src="./logo-l.png" width="20%" /></p>
 
-<center>Вики для Minecarft-сервера FarySD</center>
+<p>Вики для Minecraft-сервера FarySD</p>
 
-<center><a href="https://farysd.gitbook.io/guides/">Гайды по серверу (релиз)</a></center>
-<center><a href="https://farysd.gitbook.io/history/">История сервера (релиз)</a></center>
+<p align="center"><a href="https://farysd.gitbook.io/guides/">Гайды по серверу (релиз)</a></p>
+
+<p align="center"><a href="https://farysd.gitbook.io/history/">История сервера (релиз)</a></p>
