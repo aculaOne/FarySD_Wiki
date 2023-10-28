@@ -9,7 +9,7 @@
   * [Создание тикета](players/start/sozdanie-tiketa.md)
 * [🧭 Путеводитель - Discord](players/guideline/discord/README.md)
   * [Команда проекта](players/guideline/discord/team.md)
-* [📱 Bedrock игрокам](players/bedrock-igrokam/README.md)
+* [📱 Bedrock игрокам](players/bedrock/README.md)
   * [Ознакомление](players/bedrock/index.md)
 * [⚙ Механики сервера](players/mechanics/READMY.md)
   * [Brewery](players/mechanics/brewery/READMY.md)
