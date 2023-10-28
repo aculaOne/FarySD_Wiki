@@ -37,8 +37,8 @@ FarySD \[færi es di\] - некоммерческий проект, создан
 Подробнее о тикетировании ты сможешь прочитать, нажав на плашку ниже.
 {% endhint %}
 
-{% content-ref url="./players/sozdanie-tiketa.md" %}
-[sozdanie-tiketa.md](./players/sozdanie-tiketa.md)
+{% content-ref url="../guides/players/sozdanie-tiketa.md" %}
+[sozdanie-tiketa.md](../guides/players/sozdanie-tiketa.md)
 {% endcontent-ref %}
 
 ### Полезные ссылки
