@@ -3,7 +3,7 @@
 {% hint style="danger" %}
 **Стой!** Данная страница всё ещё в разработке. Ты можешь помочь с разработкой вики [на GitHub](https://github.com/aculaOne/FarySD_Wiki).
 
-Эту страницу ты сможешь найти, перейдя [по этой ссылке](drinks.md).
+Эту страницу ты сможешь найти, перейдя [по этой ссылке](https://github.com/aculaOne/FarySD_Wiki/blob/main/guides/players/mechanics/brewery/drinks.md).
 {% endhint %}
 
 Рецепты по умолчанию (от автора плагина) ты найдёшь [по этой ссылке](https://github.com/DieReicheErethons/Brewery/wiki/Recipes)
