@@ -7,6 +7,7 @@
 - [👋 Старт приключения](players/start/README.md)
   - [Знакомство](players/start/index.md)
   - [Создание тикета](players/start/sozdanie-tiketa.md)
+  - [Привязка Discord](players/start/mc_linking-ds.md)
 - [🧭 Путеводитель - Discord](players/guideline/discord/README.md)
   - [Команда проекта](players/guideline/discord/team.md)
   - [Карта пользователя](players/guideline/discord/userCard.md)
