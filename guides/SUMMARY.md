@@ -18,3 +18,9 @@
   - [Brewery](players/mechanics/brewery/READMY.md)
     - [Ознакомление](players/mechanics/brewery/index.md)
     - [Напитки](players/mechanics/brewery/drinks.md)
+
+## Команде FSD <a href="#for-team" id="for-team"></a>
+
+- 👋 Старт приключения
+  - Волонтёрам
+    - [Написать лор](for-team/start/volunteers/write-lore.md)
