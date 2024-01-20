@@ -6,6 +6,7 @@
 
 - [👋 Старт приключения](players/start/README.md)
   - [Знакомство](players/start/index.md)
+  - [Серверный сленг](players/start/slang.md)
   - [Создание тикета](players/start/sozdanie-tiketa.md)
   - [Привязка Discord](players/start/mc_linking-ds.md)
 - [🧭 Путеводитель - Discord](players/guideline/discord/README.md)
@@ -17,3 +18,9 @@
   - [Brewery](players/mechanics/brewery/READMY.md)
     - [Ознакомление](players/mechanics/brewery/index.md)
     - [Напитки](players/mechanics/brewery/drinks.md)
+
+## Команде FSD <a href="#for-team" id="for-team"></a>
+
+- 👋 Старт приключения
+  - Волонтёрам
+    - [Написать лор](for-team/start/volunteers/write-lore.md)

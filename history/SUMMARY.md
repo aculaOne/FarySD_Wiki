@@ -11,3 +11,6 @@
 
 - [2.3](two/2.3/README.md)
   - [Бункер](two/2.3/bunker.md)
+  - Лор
+    - Банитея
+      - [Основная информация](two/2.3/lore/banitea/index.md)
