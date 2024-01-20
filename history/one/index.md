@@ -1,3 +1,7 @@
+---
+description: Легендарный сезон
+---
+
 # Ознакомление
 
 {% hint style="danger" %}
@@ -6,8 +10,10 @@
 
 Этот сезон именуется как:
 
+- **FSD1**
 - FSD S1
-- FSD First Season
+- FSD First Season (**FSD First**)
 - FSD Start Season
 - FSD Legendary Season
-- FSD1
+
+Жирным шрифтом выбраны кодовые имена.
