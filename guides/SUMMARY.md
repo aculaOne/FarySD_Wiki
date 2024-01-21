@@ -24,3 +24,11 @@
 - 👋 Старт приключения
   - Волонтёрам
     - [Написать лор](for-team/start/volunteers/write-lore.md)
+
+## Дополнительно <a href="#additional" id="additional"></a>
+
+- 👋 Старт приключения
+  - [Знакомство](additional/start/index.md)
+  - [Как помочь](additional/start/how2help.md)
+- 💎 Наши ресурсы
+  - [От партнёров](additional/resourses/partners.md)
