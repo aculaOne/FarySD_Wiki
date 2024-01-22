@@ -31,4 +31,5 @@
   - [Знакомство](additional/start/index.md)
   - [Как помочь](additional/start/how2help.md)
 - 💎 Наши ресурсы
+  - [Проект](additional/resourses/project.md)
   - [От партнёров](additional/resourses/partners.md)
