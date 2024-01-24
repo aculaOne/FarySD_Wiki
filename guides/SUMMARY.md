@@ -15,6 +15,7 @@
 - [📱 Bedrock игрокам](players/bedrock/README.md)
   - [Ознакомление](players/bedrock/index.md)
 - [⚙ Механики сервера](players/mechanics/READMY.md)
+  - [Сторонние ресурсы](players/mechanics/others-resourses.md)
   - [Brewery](players/mechanics/brewery/READMY.md)
     - [Ознакомление](players/mechanics/brewery/index.md)
     - [Напитки](players/mechanics/brewery/drinks.md)
@@ -23,7 +24,7 @@
 
 - 👋 Старт приключения
   - Волонтёрам
-    - [Написать лор](for-team/start/volunteers/write-lore.md)
+    - [Написание лора](for-team/start/volunteers/write-lore.md)
 
 ## Дополнительно <a href="#additional" id="additional"></a>
 
