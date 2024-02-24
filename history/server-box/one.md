@@ -20,4 +20,5 @@
 - AdvancedBan
 - Vault
 - AnimatedScoreboard
+- SkinsRestorer
 - Ещё 2?

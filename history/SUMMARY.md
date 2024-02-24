@@ -12,14 +12,10 @@
 - [2.3](two/2.3/README.md)
   - [Бункер](two/2.3/bunker.md)
   - Лор
-    - Банитея
-      - [Основная информация](two/2.3/lore/banitea/index.md)
 
 ## ⚙ Сборки сервера <a href="#server-box" id="server-box"></a>
 
 - [Список сборок](server-box/index.md)
 - [Первый сезон](server-box/one.md)
-- Второй сезон
-  - Infinity (2.3 - 2.5)
-  - Межсезонье 2.(5)#3
+- [Второй сезон (+подсезоны)](server-box/two.md)
 - Третий сезон
