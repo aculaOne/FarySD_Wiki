@@ -19,6 +19,8 @@
   - [Brewery](players/mechanics/brewery/READMY.md)
     - [Ознакомление](players/mechanics/brewery/index.md)
     - [Напитки](players/mechanics/brewery/drinks.md)
+  - [Parties](players/mechanics/parties/READMY.md)
+    - [Ознакомление](players/mechanics/parties/index.md)
 
 ## Команде FSD <a href="#for-team" id="for-team"></a>
 
