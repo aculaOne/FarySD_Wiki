@@ -22,4 +22,4 @@
 3. Отправить в личные собщения код, увиденный на экране при попытке входа на MC сервер. Например, на скриншоте ниже это: "_6142_";
 4. При удачной связке ты увидешь сообщение: "_Ваш Discord аккаунт был успешно привязан к Minecraft-аккаунту <player_name> (<player_uuid>)_".
 
-<figure><img src="../../.gitbook/assets/mc_linking-ds/1.png" alt=""><figcaption>Экран связывания</figcaption></figure>
+<figure><img src="../../.gitbook/assets/players/mc_linking-ds/1.png" alt=""><figcaption>Экран связывания</figcaption></figure>
