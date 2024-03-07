@@ -1,5 +1,5 @@
 ---
-cover: ../../../.gitbook/assets/guideline/discord/team/userCard.png
+cover: ../../../.gitbook/assets/players/guideline/discord/team/userCard.png
 ---
 
 # Карта пользователя
@@ -12,7 +12,7 @@ cover: ../../../.gitbook/assets/guideline/discord/team/userCard.png
 
 ### Основные поля
 
-<figure><img src="../../../.gitbook/assets/guideline/discord/team/userCard.png" alt=""><figcaption>Шаблон карты</figcaption></figure>
+<figure><img src="../../../.gitbook/assets/players/guideline/discord/team/userCard.png" alt=""><figcaption>Шаблон карты</figcaption></figure>
 
 Содержит:
 
@@ -29,7 +29,7 @@ cover: ../../../.gitbook/assets/guideline/discord/team/userCard.png
 - Звёздочка - премиальный ли;
 - Символ (буква в право-нижнем углу) - группа (в какой группе человек).
 
-<figure><img src="../../../.gitbook/assets/guideline/discord/team/userCard_badges.png" alt=""><figcaption>Бейджи</figcaption></figure>
+<figure><img src="../../../.gitbook/assets/players/guideline/discord/team/userCard_badges.png" alt=""><figcaption>Бейджи</figcaption></figure>
 
 ### Колбы
 
@@ -41,7 +41,7 @@ cover: ../../../.gitbook/assets/guideline/discord/team/userCard.png
 
 <summary>Шаблон карты</summary>
 
-<figure><img src="../../../.gitbook/assets/guideline/discord/team/userCard.png" alt=""><figcaption>Шаблон карты</figcaption></figure>
+<figure><img src="../../../.gitbook/assets/players/guideline/discord/team/userCard.png" alt=""><figcaption>Шаблон карты</figcaption></figure>
 
 </details>
 

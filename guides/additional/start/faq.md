@@ -13,3 +13,13 @@
 ```txt
 FarySD.aternos.me:35449
 ```
+
+## На какие категории делятся роли в нашем Discord?
+
+<details>
+
+<summary>Роли и их категории</summary>
+
+<figure><img src="../../../.gitbook/assets/players/guideline/discord/team/userCard.png" alt=""><figcaption>Роли и их категории</figcaption></figure>
+
+</details>

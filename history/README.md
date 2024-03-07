@@ -73,12 +73,8 @@ Discord авторов:
       - [ ] Чипы
     - [ ] Банитея
       - [x] ~~Основная информация~~
-      - [ ] О Банитее
-      - [ ] Банит
-      - [ ] Обычаи
-        - [ ] Блюрплы
-      - [ ] MilenaZXC
-        - [ ] KristyBot
+      - [x] ~~О Банитее~~
+      - [ ] Другое
     - [ ] Ferisium
       - [ ] Основная информация
       - [ ] О Ferisium
@@ -114,6 +110,6 @@ Discord авторов:
 
 Гайды сервера (сильно поможет в развитии):
 
-{% content-ref url="../guides/README.md/" %}
-[Гайды](../guides/README.md/)
+{% content-ref url="https://farysd.gitbook.io/guides/" %}
+[Гайды](https://farysd.gitbook.io/guides/)
 {% endcontent-ref %}
