@@ -7,9 +7,7 @@
 Рецепты по умолчанию (от автора плагина) ты найдёшь [по этой ссылке](https://github.com/DieReicheErethons/Brewery/wiki/Recipes)
 
 {% hint style="warning" %}
-**Осторожно!** Часть рецептов может быть неверно написана. так как информацию брал из конфига, а конфиг настраивал не я, а dil276.
-
-\~ @acula_1
+**Осторожно!** Данный список был составлен при помощи алгоритма (программы), поэтому информация могла исказиться!
 {% endhint %}
 
 {% hint style="info" %}
@@ -18,22 +16,37 @@
 
 ## Тип: Зелье
 
-{% tabs %}
-{% tab title="Пиво" %}
-
-<table data-view="cards" data-full-width="true"><thead><tr><th>Сорт</th><th>Ингредиенты</th><th>Время варки</th><th>Выдержка / Древесина</th><th>Дистилляция</th><th>Алкоголь</th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Простое</td><td>Пшеница x6</td><td>8 минут</td><td>3 года / Любая</td><td>Нет</td><td>6</td><td><a href="../../../.gitbook/assets/Default cover.png">Default cover.png</a></td></tr><tr><td>Пшеничное</td><td>Пшеница x3</td><td>8 минут</td><td>2 года / Берёза</td><td>Нет</td><td>5</td><td><a href="../../../.gitbook/assets/Default cover.png">Default cover.png</a></td></tr><tr><td>Тёмное</td><td>Пшеница x6</td><td>8 минут</td><td>8 лет / Тёмный дуб</td><td>Нет</td><td>7</td><td><a href="../../../.gitbook/assets/Default cover.png">Default cover.png</a></td></tr></tbody></table>
-{% endtab %}
-
-{% tab title="Водка" %}
-
-<table data-view="cards" data-full-width="true"><thead><tr><th>Сорт</th><th>Ингредиенты</th><th>Время варки</th><th>Выдержка / Древесина</th><th>Дистилляция</th><th>Алкоголь</th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Обычный</td><td>Картофель  x10</td><td>15 минут</td><td>Нет</td><td>3</td><td>20</td><td><a href="../../../.gitbook/assets/Default cover.png">Default cover.png</a></td></tr><tr><td>С грибами</td><td>Картофель  x10<br>Красный гриб x3<br>Коричневый гриб x3</td><td>18 минут</td><td>Нет</td><td>5</td><td>18</td><td><a href="../../../.gitbook/assets/Default cover.png">Default cover.png</a></td></tr></tbody></table>
-{% endtab %}
-
-{% tab title="Абсент" %}
-
-<table data-view="cards" data-full-width="true"><thead><tr><th>Сорт</th><th>Ингредиенты</th><th>Время варки</th><th>Выдержка / Древесина</th><th>Дистилляция</th><th>Алкоголь</th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Обычный</td><td>Трава x15</td><td>3 минуты</td><td>Нет</td><td>6 раз по 80 секунд</td><td>42</td><td><a href="../../../.gitbook/assets/Default cover.png">Default cover.png</a></td></tr><tr><td>Зелёный</td><td><p>Трава x17</p><p>Ядовитый картофель x2</p></td><td>5 минут</td><td>Нет</td><td>6</td><td>46</td><td><a href="../../../.gitbook/assets/Default cover.png">Default cover.png</a></td></tr></tbody></table>
-{% endtab %}
-{% endtabs %}
+| Название                  | Ингридиенты                                              | Время приготовления | Время дистилляции | Древесина | Возраст | Точность | Алкогольность |
+| ------------------------- | -------------------------------------------------------- | ------------------- | ----------------- | --------- | ------- | -------- | ------------- |
+| Яблочный сидр             | Apple x14                                                | 7                   | Нет               | 0         | 3       | 4        | 7             |
+| Джин                      | Wheat x9, blue-flowers x6, Apple x1                      | 6                   | Нет               | Нет       | Нет     | 6        | 20            |
+| Водка с грибами           | Potato x10, Red_Mushroom x3, Brown_Mushroom x3           | 18                  | Нет               | Нет       | 0       | 7        | 18            |
+| Глорп                     | dandelion x1, grass x2                                   | 3                   | 1                 | Нет       | Нет     | Нет      | 0             |
+| Голубоватое нечто         | Milk_bucket x1, Apple x1, Honeycomb x1, Sweet_berries x2 | 2                   | Нет               | Нет       | 1       | Нет      | 0             |
+| Пряный ром                | Sugar_Cane x18                                           | 6                   | 30                | 2         | 14      | 6        | 30            |
+| Картофельный суп          | Potato x5, Grass x3                                      | 3                   | Нет               | Нет       | Нет     | 1        | 0             |
+| Квас                      | Wheat x4                                                 | 5                   | 2                 | Нет       | Нет     | Нет      | 4             |
+| Яблочный ликер            | Apple x12                                                | 16                  | Нет               | 5         | 6       | 5        | 14            |
+| Красное вино              | Sweet_Berries x5                                         | 5                   | Нет               | 0         | 20      | 4        | 8             |
+| Медовый коктель           | milk_bucket x1, honey_bottle x3                          | 6                   | 3                 | Нет       | Нет     | Нет      | -2            |
+| Текила                    | cactus x8                                                | 15                  | Нет               | 1         | 12      | 5        | 20            |
+| Настойка из водорослей    | kelp x3                                                  | 4                   | Нет               | Нет       | Нет     | Нет      | 5             |
+| Настойка из ягод          | sweet_berries x5                                         | 3                   | Нет               | Нет       | Нет     | Нет      | 5             |
+| Виски                     | Wheat x10                                                | 10                  | 50                | 4         | 18      | 7        | 26            |
+| Какао                     | Cocoa_Beans x6, Milk_Bucket x1                           | 1                   | Нет               | Нет       | Нет     | 3        | -3            |
+| Кофе                      | Cocoa_Beans x12, Milk_Bucket x2                          | 2                   | Нет               | Нет       | Нет     | 3        | -6            |
+| Мид                       | Sugar_Cane x6                                            | 3                   | Нет               | 2         | 4       | 2        | 9             |
+| Водка                     | Potato x10                                               | 15                  | Нет               | Нет       | 0       | 4        | 20            |
+| Абсент                    | Grass x15                                                | 3                   | 80                | Нет       | Нет     | 8        | 42            |
+| Зеленый абсент            | Grass x17, Poisonous_Potato x2                           | 5                   | 85                | Нет       | Нет     | 9        | 46            |
+| Кефир                     | milk_bucket x3                                           | 4                   | Нет               | Нет       | Нет     | Нет      | -4            |
+| Пиво                      | Wheat x6                                                 | 8                   | Нет               | 0         | 3       | 1        | 6             |
+| Пшеничное пиво            | Wheat x3                                                 | 8                   | Нет               | 1         | 2       | 1        | 5             |
+| Темное пиво               | Wheat x6                                                 | 8                   | Нет               | 6         | 8       | 2        | 7             |
+| Серая смесь               | Rotten_Flesh x2, Bone x1, Milk_Bucket x1                 | 5                   | 5                 | Нет       | Нет     | 4        | -60           |
+| Чёрная смесь              | Rotten_Flesh x2, Bone x1                                 | 10                  | 5                 | Нет       | Нет     | 4        | 40            |
+| Сладкая яблочная медовуха | Sugar_Cane x6, Apple x2                                  | 4                   | Нет               | 2         | 4       | 4        | 11            |
+| Гоголь-Моголь             | Egg x5, Sugar x2, Milk_Bucket x1                         | 2                   | Нет               | 0         | 3       | 4        | 10            |
 
 ## Тип: Котёл
 
