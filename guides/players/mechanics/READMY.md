@@ -6,6 +6,6 @@ description: Основные и продвинутые механики сер�
 
 Подробнее тут:
 
-{% content-ref url="../history/README.md/" %}
+{% content-ref url="./others-resourses.md" %}
 [Сторонние ресурсы](./others-resourses.md)
 {% endcontent-ref %}

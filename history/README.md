@@ -114,6 +114,6 @@ Discord авторов:
 
 Гайды сервера (сильно поможет в развитии):
 
-{% content-ref url="../guides/README.md/" %}
-[Гайды](../guides/README.md/)
+{% content-ref url="https://farysd.gitbook.io/guides/" %}
+[Гайды](https://farysd.gitbook.io/guides/)
 {% endcontent-ref %}

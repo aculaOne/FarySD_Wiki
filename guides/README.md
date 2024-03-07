@@ -36,12 +36,12 @@ FarySD \[færi es di] - некоммерческий проект, создан�
 
 ### Как начать играть?
 
-Перейди в [ЧаВо](./additional/start/faq.md).
+Перейди в [ЧаВо](additional/start/faq.md).
 
 ### Полезные ссылки
 
 История сервера (разрабатывается только с учётом сообщества):
 
-{% content-ref url="../history/README.md/" %}
-[История](../history/README.md/)
+{% content-ref url="https://farysd.gitbook.io/history/" %}
+[История](https://farysd.gitbook.io/history/)
 {% endcontent-ref %}
