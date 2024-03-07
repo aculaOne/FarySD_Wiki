@@ -20,6 +20,6 @@ FarySD.aternos.me:35449
 
 <summary>Роли и их категории</summary>
 
-<figure><img src="../../../.gitbook/assets/players/guideline/discord/team/userCard.png" alt=""><figcaption>Роли и их категории</figcaption></figure>
+<figure><img src="../../.gitbook/assets/additional/start/faq/Roles.png" alt=""><figcaption>Роли и их категории</figcaption></figure>
 
 </details>
