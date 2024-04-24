@@ -11,6 +11,7 @@
   - [Привязка Discord](players/start/mc_linking-ds.md)
 - [🧭 Путеводитель - Discord](players/guideline/discord/README.md)
   - [Команда проекта](players/guideline/discord/team.md)
+  - [Роли](players/guideline/discord/roles.md)
   - [Карта пользователя](players/guideline/discord/userCard.md)
 - [📱 Bedrock игрокам](players/bedrock/README.md)
   - [Ознакомление](players/bedrock/index.md)
