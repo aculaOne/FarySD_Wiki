@@ -33,6 +33,7 @@
 - 👋 Старт приключения
   - [Знакомство](additional/start/index.md)
   - [Как помочь](additional/start/how2help.md)
+  - [ЧаВо](additional/start/faq.md)
 - 💎 Наши ресурсы
   - [Проект](additional/resourses/project.md)
   - [От партнёров](additional/resourses/partners.md)
