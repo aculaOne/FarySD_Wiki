@@ -11,7 +11,7 @@
 ## Какой IP?
 
 ```txt
-FarySD.aternos.me:35449
+f7.gamely.pro:20600
 ```
 
 ## На какие категории делятся роли в нашем Discord?
