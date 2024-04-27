@@ -4,10 +4,7 @@
 
 - FSD – FarySD;
 - FC – FaryCoins (Серверная валюта);
-- VB, Ac\_, ac, acula_1, aculaOne – Инициалы создателя FarySD;
-- LZ, Lovienxi – Инициалы одного из владельцев FarySD;
-- FSDT – FarySD Team;
-- FSDC – FarySD Community.
+- [Для ролей](../guideline/discord/roles.md#роль-должность)
 
 ## Сленг
 
