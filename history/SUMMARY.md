@@ -27,6 +27,6 @@
 ## ⚙ Сборки сервера <a href="#server-box" id="server-box"></a>
 
 - [Список сборок](server-box/index.md)
-- [Первый сезон](server-box/one.md)
-- [Второй сезон (+подсезоны)](server-box/two.md)
-- Третий сезон
+- [Первый сезон](server-box/1.md)
+- [Второй сезон (+подсезоны)](server-box/2.md)
+- [Третий сезон](server-box/3.md)
