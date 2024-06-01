@@ -11,11 +11,11 @@
 ## Какой IP?
 
 ```txt
-FarySD.aternos.me:35449
+f7.gamely.pro:20600
 ```
 
 ## На какие категории делятся роли в нашем Discord?
 
 {% content-ref url="../../players/guideline/discord/roles.md" %}
-[Роли](../../players/guideline/discord/roles.md)
+[roles.md](../../players/guideline/discord/roles.md)
 {% endcontent-ref %}
