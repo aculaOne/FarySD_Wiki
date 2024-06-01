@@ -2,12 +2,12 @@
 
 - [Главная](README.md)
 
-## 💘 Первый сезон <a href="#one" id="one"></a>
+## 1️⃣ Первый сезон <a href="#one" id="one"></a>
 
 - [Ознакомление](one/index.md)
 - [Идея создания](one/idea.md)
 
-## ✨ Второй сезон <a href="#two" id="two"></a>
+## 2️⃣ Второй сезон <a href="#two" id="two"></a>
 
 - [2.3](two/2.3/README.md)
   - [Бункер](two/2.3/bunker.md)
@@ -24,7 +24,7 @@
           - Правительство
             - [Всевышние](two/2.3/lore/banitea/other/characters/government/vsevyshnie.md)
 
-## ⚙ Сборки сервера <a href="#server-box" id="server-box"></a>
+## ⚙️ Сборки сервера <a href="#server-box" id="server-box"></a>
 
 - [Список сборок](server-box/index.md)
 - [Первый сезон](server-box/1.md)
