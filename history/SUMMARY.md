@@ -5,7 +5,7 @@
 ## 1️⃣ Первый сезон <a href="#one" id="one"></a>
 
 - [Ознакомление](one/index.md)
-- [Идея создания](one/idea.md)
+- [История и идея создания](one/history_idea.md)
 
 ## 2️⃣ Второй сезон <a href="#two" id="two"></a>
 
