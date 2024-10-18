@@ -25,6 +25,8 @@
         - [Лайнтер Ацула-Феникс](lore/banitea/other/characters/acula-feniks/lanter_acula-feniks.md)
       - Правительство
         - [Всевышние](lore/banitea/other/characters/government/vsevyshnie.md)
+      - Легенда
+        - [Сакурао](lore/banitea/other/characters/legend/sakurao.md)
 
 ## ⚙️ Сборки сервера <a href="#server-box" id="server-box"></a>
 
