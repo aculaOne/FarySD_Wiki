@@ -34,3 +34,4 @@
 - [Первый сезон](server-box/1.md)
 - [Второй сезон (+подсезоны)](server-box/2.md)
 - [Третий сезон](server-box/3.md)
+- [Fary Nelovy](server-box/nelovy.md)
