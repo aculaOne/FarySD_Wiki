@@ -24,7 +24,7 @@
             <td>1.16.5</td>
             <td>Spigot</td>
             <td>acula_1</td>
-            <td><a href="../.gitbook/assets/server-box/FSD Cover S1.png">FSD Cover S1.png</a></td>
+            <td><a href="../.gitbook/assets/server-box/1.png">FSD Cover S1.png</a></td>
         </tr>
         <tr>
             <td><a href="two.md#2">FSD2</a></td>
@@ -35,7 +35,7 @@
             <td>1.16.5</td>
             <td>Spigot => Paper</td>
             <td>acula_1</td>
-            <td><a href="../.gitbook/assets/server-box/FSD Cover S2.png">FSD Cover S2.png</a></td>
+            <td><a href="../.gitbook/assets/server-box/2.png">FSD Cover S2.png</a></td>
         </tr>
         <tr>
             <td><a href="two.md#23">FSD2.3</a></td>
@@ -46,7 +46,7 @@
             <td>1.16.5 => 1.18.2</td>
             <td>Paper => Spigot</td>
             <td>acula_1, dil276</td>
-            <td><a href="../.gitbook/assets/server-box/FSD Cover S2.png">FSD Cover S2.png</a></td>
+            <td><a href="../.gitbook/assets/server-box/2.png">FSD Cover S2.png</a></td>
         </tr>
         <tr>
             <td><a href="two.md#25">FSD2.5</a></td>
@@ -57,7 +57,7 @@
             <td>1.18.2 => 1.19.4</td>
             <td>Spigot</td>
             <td>acula_1, dil276, null_098 (dark_warden), lovienxi</td>
-            <td><a href="../.gitbook/assets/server-box/FSD Cover S2.png">FSD Cover S2.png</a></td>
+            <td><a href="../.gitbook/assets/server-box/2.png">FSD Cover S2.png</a></td>
         </tr>
         <tr>
             <td><a href="two.md#253">FSD2.(5)#3</a></td>
@@ -68,18 +68,29 @@
             <td>1.19.4</td>
             <td>Spigot</td>
             <td>acula_1, lovienxi</td>
-            <td><a href="../.gitbook/assets/server-box/FSD Cover S2.png">FSD Cover S2.png</a></td>
+            <td><a href="../.gitbook/assets/server-box/2.png">FSD Cover S2.png</a></td>
         </tr>
         <tr>
             <td>ZeroTime</td>
             <td>Нет</td>
             <td>Сборка для третьего сезона...</td>
-            <td>Разработка...</td>
+            <td>Заброшено...</td>
             <td>Нет</td>
             <td>1.19.4</td>
             <td>Paper</td>
             <td>acula_1</td>
-            <td><a href="../.gitbook/assets/server-box/FSD Cover S3.png">FSD Cover S3.png</a></td>
+            <td><a href="../.gitbook/assets/server-box/3.png">FSD Cover S3.png</a></td>
+        </tr>
+        <tr>
+            <td>Fary Nelovy</td>
+            <td>Нет</td>
+            <td>Начальная сборка для новой ветви в истории проекта.</td>
+            <td>Разработка...</td>
+            <td>Нет</td>
+            <td>1.21.1</td>
+            <td>Paper</td>
+            <td>acula_1</td>
+            <td><a href="../.gitbook/assets/server-box/nelovy.png">nelovy.png</a></td>
         </tr>
     </tbody>
 </table>
