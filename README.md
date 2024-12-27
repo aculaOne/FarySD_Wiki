@@ -19,7 +19,6 @@ main
 |   ├── .gitbook
 |   |   └── assets          - Изображения
 |   ├── README.md           - Главная страница
-|   ├── future_SUMMARY.md   - Что в планах?
 |   └── SUMMARY.md          - Навигация
 ├── history                 - "История"
 |   ├── README.md           - Главная страница
